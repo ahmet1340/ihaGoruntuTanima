@@ -6,10 +6,7 @@ Bu proje, görüntü işleme teknikleri kullanılarak geliştirilmiş olup, Jets
 
 Bu proje, tarım alanlarında kullanılmak üzere geliştirilmiş otonom bir sistemdir. Görüntü işleme algoritmalarıyla tarla üzerindeki hastalıkları tespit edebilir ve ilaçlama yapabilir. Jetson Nano üzerinde çalışması, işlem gücü gereksinimlerini karşılamak için optimize edilmiştir.
 
-## Kullanım
-
-Projeyi kullanabilmek için Jetson Nano ve uyumlu bir kamera gerekmektedir. Proje dosyalarını Jetson Nano'ya kurarak ve kamerayı bağlayarak kullanabilirsiniz.
-
+ 
 ## YouTube Tanıtımı
 
 [![İHA Otonom Tarla İlaçlama ve Hastalık Tespiti Projesi](https://img.youtube.com/vi/Ibu-3BiQ8rY/0.jpg)](https://www.youtube.com/watch?v=Ibu-3BiQ8rY)
